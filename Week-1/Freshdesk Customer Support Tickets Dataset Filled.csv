@@ -1,0 +1,31 @@
+Ticket ID,Created Date,Resolved Date,Agent,Customer,Subject/Short Description,Category,Priority,Status,Tags,Sentiment
+T011,2026-01-04 13:30,2026-01-04 15:00,Agent B,Customer K,Account locked after multiple attempts,Technical,High,Closed,login-issue,Negative
+T012,2026-01-04 14:15,2026-01-04 16:00,Agent C,Customer L,Subscription auto-renewal failed,Billing,Urgent,Resolved,payment-failed,Neutral 
+T013,2026-01-05 09:00,2026-01-05 11:20,Agent A,Customer M,Error during checkout,Technical,Urgent,Resolved,server-error,Negative
+T014,2026-01-05 09:45,2026-01-05 10:30,Agent B,Customer N,Request for multiple language support,Feature Request,Low,Closed,feature,Positive
+T015,2026-01-05 11:00,2026-01-05 12:50,Agent C,Customer O,Cannot change profile picture,Account Management,Medium,Resolved,account-changes,Neutral 
+T016,2026-01-05 12:30,2026-01-05 13:45,Agent A,Customer P,Invoice PDF not downloadable,Technical,High,Resolved,server-error,Negative
+T017,2026-01-05 14:10,2026-01-05 15:30,Agent B,Customer Q,Password reset link expired,Account Management,High,Closed,login-issue,Neutral 
+T018,2026-01-06 08:50,2026-01-06 10:20,Agent C,Customer R,App crashes on settings page,Technical,Medium,Resolved,server-error,Negative
+T019,2026-01-06 09:30,2026-01-06 11:00,Agent A,Customer S,Refund not received after cancellation,Billing,Medium,Resolved,refund,Negative
+T020,2026-01-06 10:45,2026-01-06 12:15,Agent B,Customer T,Add dark mode for dashboard,Feature Request,Low,Closed,design,Positive
+T021,2026-01-06 12:00,2026-01-06 13:20,Agent C,Customer U,Change of email not reflecting,Account Management,High,Resolved,account-changes,Negative
+T022,2026-01-06 13:45,2026-01-06 15:00,Agent A,Customer V,Two-factor authentication not working,Technical,High,Resolved,server-error,Negative
+T023,2026-01-07 09:10,2026-01-07 11:00,Agent B,Customer W,Incorrect tax applied on invoice,Billing,Urgent,Closed,incorrect-billing,Negative
+T024,2026-01-07 09:50,2026-01-07 10:40,Agent C,Customer X,Add custom notification sounds,Feature Request,Low,Closed,feature,Positive
+T025,2026-01-07 11:20,2026-01-07 12:50,Agent A,Customer Y,Payment gateway timeout error,Technical,Urgent,Resolved,connection-error,Negative
+T026,2026-01-07 13:00,2026-01-07 14:30,Agent B,Customer Z,Unable to link social media account,Account Management,Medium,Resolved,account-changes,Neutral
+T027,2026-01-08 08:40,2026-01-08 10:00,Agent C,Customer AA,Locked out after password reset attempt,Technical,High,Closed,login-issue,Negative
+T028,2026-01-08 09:30,2026-01-08 11:00,Agent A,Customer AB,App slow when uploading images,Technical,Medium,Resolved,connection-error,Negative
+T029,2026-01-08 10:15,2026-01-08 11:50,Agent B,Customer AC,Request for weekly activity summary email,Feature Request,Low,Closed,feature,Positive
+T030,2026-01-08 11:30,2026-01-08 13:00,Agent C,Customer AD,Charged extra for subscription plan,Billing,Urgent,Resolved,incorrect-billing,Negative
+T031,2026-01-08 12:15,2026-01-08 13:45,Agent A,Customer AE,Cannot update contact information,Account Management,High,Resolved,account-changes,Neutral
+T032,2026-01-09 09:00,2026-01-09 10:30,Agent B,Customer AF,Login blocked due to suspicious activity,Technical,High,Closed,login-issue,Neutral
+T033,2026-01-09 09:40,2026-01-09 11:00,Agent C,Customer AG,Error 404 when accessing profile,Technical,High,Resolved,server-error,Negative
+T034,2026-01-09 10:20,2026-01-09 11:50,Agent A,Customer AH,Add option to export data,Feature Request,Low,Closed,feature,Positive
+T035,2026-01-09 12:00,2026-01-09 13:40,Agent B,Customer AI,Payment failed multiple times,Billing,Urgent,Resolved,payment-failed,Negative
+T036,2026-01-09 12:50,2026-01-09 14:10,Agent C,Customer AJ,Issue with account verification,Account Management,High,Closed,server-error,Negative
+T037,2026-01-10 09:10,2026-01-10 10:40,Agent A,Customer AK,Cannot log in after password reset,Technical,High,Resolved,login-issue,Negative
+T038,2026-01-10 09:50,2026-01-10 11:20,Agent B,Customer AL,App freezes during checkout,Technical,Urgent,Resolved,server-error,Negative
+T039,2026-01-10 11:00,2026-01-10 12:30,Agent C,Customer AM,Request for light theme in dashboard,Feature Request,Low,Closed,design,Positive
+T040,2026-01-10 12:20,2026-01-10 13:50,Agent A,Customer AN,Refund request delayed,Billing,Medium,Resolved,refund,Negative
