@@ -29,6 +29,6 @@ This internship delivered an end-to-end analytics workflow, transforming raw sup
 
 # 📊 Final Dashboard (Image)
 <img width="1355" height="732" alt="Ticket Dashboard Image" src="https://github.com/user-attachments/assets/4c2c076d-70a2-434d-9360-0fe0fd353605" />
-**📈 Forecast**
+📈 Forecast
 <img width="1186" height="590" alt="image" src="https://github.com/user-attachments/assets/18f24bba-0082-47ce-b1bf-1251471117a2" />
 
